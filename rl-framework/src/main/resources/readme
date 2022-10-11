@@ -1,0 +1,20 @@
+1.mybatis 集成  -OK
+2.mybatis 自定义拦截器实现特有的log(sql 拼接 , costTime,SlowSql)  -OK
+3.db conn pool druid  -OK
+4.mq集成
+5.redis 集成（curd + 分布式锁） -OK
+6.swagger集成 -OK
+7.UT集成 -OK
+8.spring容器工具类集成  -OK
+9.rest Template Util集成 -OK
+10.异常全局框架集成  -OK
+11.aop日志切面集成 -OK
+12.xxs,跨域，拦截器集成
+13.线程池集成  -OK
+14.多数据源配置集成    -OK
+15.读写分离集成
+16.guava集成 -OK
+17.代理对象注入到 threadLocal 开启 -OK
+18.统一数据返回  -OK
+19.Ua 工具类  -OK
+20.log4j2集成
